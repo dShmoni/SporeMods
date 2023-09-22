@@ -1,0 +1,8 @@
+key parent AbilityTemplates!SprintTemplate
+float creatureAbilityDuration 10
+float creatureAbilityRecharge 120
+float creatureAbilityRefresh 0
+vector2s creatureAbilityRequiredCAPsMaxValueRange
+	(1, 1)
+end
+key verbIconRepresentativeAnimation 0x04DD73B0

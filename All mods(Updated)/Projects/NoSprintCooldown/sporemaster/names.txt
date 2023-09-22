@@ -1,0 +1,15 @@
+AbilityTemplates
+sprint5
+sprint4
+sprint1
+sprint3
+sprint2
+sporemaster
+names
+CreatureAbilities
+SprintTemplate
+auto_CreatureAbilities_sprint1
+auto_CreatureAbilities_sprint2
+auto_CreatureAbilities_sprint3
+auto_CreatureAbilities_sprint4
+auto_CreatureAbilities_sprint5
